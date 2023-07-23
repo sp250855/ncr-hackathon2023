@@ -1,5 +1,5 @@
 import React from 'react';
-import User from '../Container/User';
+import User from 'container/User';
 
 function UserPage() {
     return <User />;

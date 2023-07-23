@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Button, Typography } from '@mui/material';
 import TextField from '@mui/material/TextField';
-import Section from '@/app/common/Section';
+import Section from '@/common/Section';
 
 function User() {
     return (
